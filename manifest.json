@@ -1,0 +1,15 @@
+{
+  "catalog_version": "2026.08.5",
+  "schema_version": 1,
+  "min_skill_version": "0.8.1",
+  "published_at": "2026-08-19T06:21:10Z",
+  "catalog_url": "https://github.com/jjacy2024/find-ui-motion-catalog/releases/download/v2026.08.5/sites.json",
+  "sha256": "15b488b90b22bf7f1cbe4bbfa6f9ec98e5a5a27e92d3c4d14ae8ddcf14e28470",
+  "summary": {
+    "added": 14,
+    "removed": 0,
+    "updated": 0
+  },
+  "examples_url": "https://github.com/jjacy2024/find-ui-motion-catalog/releases/download/v2026.08.5/examples.jsonl",
+  "examples_sha256": "8dc4d883b0d5ed42769218f7289fc526060a707e87751204c5252405c16a3dca"
+}
