@@ -4,12 +4,12 @@
 
 ## 当前工作副本
 
-- Catalog：`2026.08.8`
-- 网站：18 个
-- 具体案例：3100 个
+- Catalog：`2026.08.9`
+- 网站：23 个
+- 具体案例：3656 个
 - Schema：1
 
-`manifest.json` 指向当前已发布版本 `2026.08.8`，并记录 Release 资源的 SHA-256。
+`manifest.json` 已为待发布版本 `2026.08.9` 生成 Release 资源地址和 SHA-256；在维护者实际发布该版本前，这些 Release 地址不会对外生效。
 
 ## 文件
 
@@ -36,6 +36,10 @@ https://raw.githubusercontent.com/jjacy2024/find-ui-motion-catalog/main/manifest
 - 不因数量目标加入重复、弱相关、不可访问或无权展示的案例。
 - 网站级许可不能代替案例级许可；复制、安装或下载前仍需重新检查当前条款。
 - 每次发布必须生成新的版本号、不可变 Release 资源和匹配的 SHA-256。
+
+## 推荐新来源
+
+可通过 [GitHub Issue](https://github.com/jjacy2024/find-ui-motion-catalog/issues/new?template=source-suggestion.md) 推荐尚未收录的高质量动效网站。提交内容只需包含“网站名称与域名”；具体案例、动效质量和收录资格由维护者人工审核。
 
 对应 Skill：
 
