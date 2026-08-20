@@ -1,8 +1,8 @@
 {
   "catalog_version": "2026.08.9",
   "schema_version": 1,
-  "min_skill_version": "0.8.2",
-  "published_at": "2026-08-20T08:02:33Z",
+  "min_skill_version": "0.9.3",
+  "published_at": "2026-08-20T08:37:13Z",
   "catalog_url": "https://github.com/jjacy2024/find-ui-motion-catalog/releases/download/v2026.08.9/sites.json",
   "sha256": "60acf06c1ac675519dc33313fccb3db02f79393a9afd11881635560382f84d75",
   "summary": {
@@ -10,6 +10,8 @@
     "removed": 0,
     "updated": 1
   },
-  "examples_url": "https://github.com/jjacy2024/find-ui-motion-catalog/releases/download/v2026.08.9/examples.jsonl",
-  "examples_sha256": "2b9c17ce27cd53fbc0296af4b1b5d13ad39dcad5ca46c79dafb5245b4571e0e7"
+  "examples_url": "https://github.com/jjacy2024/find-ui-motion-catalog/releases/download/v2026.08.9/examples.jsonl.gz",
+  "examples_sha256": "ff24046de9d9b107426d69d4bbf36dc5c854fd51aecc5010a735fcdd6579b165",
+  "examples_compression": "gzip",
+  "examples_content_sha256": "2b9c17ce27cd53fbc0296af4b1b5d13ad39dcad5ca46c79dafb5245b4571e0e7"
 }
